@@ -1,5 +1,5 @@
-# Pizza-Sales-Analysis-using-Excel
-# 🍕 Pizza Sales Analysis Dashboard - Excel Project
+# Pizza-Sales 🍕
+# Analysis Dashboard - Excel Project
 
 This Excel project presents an end-to-end analysis of pizza sales data using Microsoft Excel tools like **Power Query**, **Pivot Tables**, and **Slicers**. It is designed to help understand sales performance, identify key trends, and provide actionable insights through a dynamic and interactive dashboard.
 
